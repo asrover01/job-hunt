@@ -27,7 +27,7 @@ h1{
 }
 .hero-text{
     max-width: 900px;
-    min-width: 500px;
+    min-width: 370px;
     width:50%;
     padding-top: 2rem;
     opacity: 0.8;
@@ -79,4 +79,5 @@ img{
     width: 50%;
     border-radius: 10px;
 }
+
 
